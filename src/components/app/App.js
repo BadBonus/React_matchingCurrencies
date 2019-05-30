@@ -5,7 +5,7 @@ import Header from './../header/header'
 import Footer from './../footer/footer'
 import ChangeValues from './../change-values/change-values'
 import ValuesHistory from './../values-history/values-history'
-import MyService from './../services/myService'
+import MyService from '../../services/myService'
 
 class App extends Component {
 

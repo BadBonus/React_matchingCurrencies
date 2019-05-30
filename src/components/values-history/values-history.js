@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import myService from './../services/myService'
+import myService from '../../services/myService'
 import './values-history.css'
-import MyService from "../services/myService";
+import MyService from "../../services/myService";
 
 export default class ValuesHistory extends Component {
 
